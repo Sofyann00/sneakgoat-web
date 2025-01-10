@@ -241,7 +241,7 @@ export function CheckoutForm() {
             </div>
             <div className="text-center space-y-2">
               <p className="font-semibold">BCA</p>
-              <p className="font-mono text-xl">745321224</p>
+              <p className="font-mono text-xl">765488912</p>
             </div>
             <Button 
               onClick={() => {
