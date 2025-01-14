@@ -23,7 +23,7 @@ export default function TermsPage() {
                 1. Agreement to Terms
               </h2>
               <p className="text-muted-foreground">
-                By accessing and using the services provided by PT BIG SOLUSI TEKNOLOGI (hereinafter referred to as &quot;hoopkicks&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
+                By accessing and using the services provided by PT BIG SOLUSI TEKNOLOGI (hereinafter referred to as &quot;hoopkicks&quot;), a premium sneaker reselling platform, you accept and agree to be bound by the terms and provisions of this agreement.
               </p>
             </div>
 
@@ -32,7 +32,7 @@ export default function TermsPage() {
                 2. Products and Services
               </h2>
               <p className="text-muted-foreground">
-                hoopkicks provides high-performance computing hardware, including but not limited to GPUs and mini servers. All product specifications and prices are subject to change without prior notice.
+                hoopkicks provides authentic, premium sneakers and related footwear products. All sneakers are guaranteed authentic, and prices are subject to market conditions and availability. Product availability and prices may change without prior notice.
               </p>
             </div>
 
@@ -41,7 +41,7 @@ export default function TermsPage() {
                 3. Warranty and Returns
               </h2>
               <p className="text-muted-foreground">
-                All products come with manufacturer warranty. Customers must inspect products upon delivery and report any defects within 7 days. Returns are subject to our return policy and must be in original condition with complete packaging.
+                All products are guaranteed authentic and undergo strict quality verification. Customers must inspect products upon delivery and report any defects within 24 hours. Returns are only accepted for authenticity issues or manufacturing defects, and items must be unworn, in original condition with all original packaging and tags intact.
               </p>
             </div>
 
@@ -50,7 +50,7 @@ export default function TermsPage() {
                 4. Privacy and Data Protection
               </h2>
               <p className="text-muted-foreground">
-                We collect and process personal data in accordance with Indonesian data protection laws. For more information, please refer to our Privacy Policy.
+                We collect and process personal data in accordance with Indonesian data protection laws. This includes shipping information, payment details, and purchase history. For more information, please refer to our Privacy Policy.
               </p>
             </div>
 
@@ -59,7 +59,7 @@ export default function TermsPage() {
                 5. Limitation of Liability
               </h2>
               <p className="text-muted-foreground">
-              PT BIG SOLUSI TEKNOLOGI shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services.
+                hoopkicks shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from market price fluctuations, delayed shipments, or circumstances beyond our reasonable control.
               </p>
             </div>
 
