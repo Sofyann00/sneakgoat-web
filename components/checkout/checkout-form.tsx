@@ -231,7 +231,7 @@ export function CheckoutForm() {
         <DialogContent>
           <DialogHeader>
             <DialogTitle className="text-xl font-bold mb-4">
-              <div className="text-center mb-2">PT Big Solusi Teknologi</div>
+              <div className="text-center mb-2">PT BIG SOLUSI TEKNOLOGI</div>
               Please pay to this account number before:
             </DialogTitle>
           </DialogHeader>

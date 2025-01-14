@@ -125,7 +125,7 @@ export function Footer() {
 
         <div className="mt-16 pt-8 border-t">
           <p className="text-sm text-muted-foreground text-center">
-            © {new Date().getFullYear()} PT Big Solusi Teknologi. All rights reserved.
+            © {new Date().getFullYear()} PT BIG SOLUSI TEKNOLOGI. All rights reserved.
           </p>
         </div>
       </div>
