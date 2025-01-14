@@ -18,37 +18,38 @@ export function Footer() {
               <span className="text-xl font-bold">valuescities</span>
             </div>
             <p className="mt-4 text-sm text-muted-foreground leading-relaxed">
-              Your premier destination for authentic basketball sneakers. From classic Air Jordans 
-              to modern performance shoes, we deliver the finest basketball footwear to elevate your game.
+              Your premier destination for luxury accessories. From elegant watches 
+              to premium leather goods, we offer a curated collection of timeless pieces 
+              for both men and women.
             </p>
           </div>
 
-          {/* Solutions */}
+          {/* Shop Section */}
           <div className="col-span-1">
             <h3 className="text-lg font-semibold mb-6">Shop</h3>
             <ul className="space-y-4">
               <li>
                 <Link
-                  href="/new-releases"
+                  href="/new-arrivals"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  New Releases
+                  New Arrivals
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/jordan"
+                  href="/mens-accessories"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Air Jordan Collection
+                  Men's Collection
                 </Link>
               </li>
               <li>
                 <Link
-                  href="/performance"
+                  href="/womens-accessories"
                   className="text-sm text-muted-foreground hover:text-foreground transition-colors"
                 >
-                  Performance Shoes
+                  Women's Collection
                 </Link>
               </li>
             </ul>
@@ -105,7 +106,7 @@ export function Footer() {
                       href="tel:+6281572136072"
                       className="hover:text-foreground transition-colors"
                     >
-                      (021) 50111528
+                      (021) 867433112
                     </a>
                   </p>
                 </div>
@@ -113,10 +114,10 @@ export function Footer() {
               <div className="text-sm text-muted-foreground">
                 <p className="font-medium text-foreground mb-2">Store Location</p>
                 <p className="leading-relaxed">
-                  Komplek Perkantoran Duta Merlin Blok F13,<br />
-                  Jalan Gajah Mada, Petojo Utara,<br />
-                  Gambir, Jakarta Pusat,<br />
-                  DKI Jakarta
+                  Komplek Perkantoran Duta Merlin Blok F13, Jalan Gajah Mada,<br />
+                  Desa/Kelurahan Petojo Utara, Kec. Gambir, Kota Adm. Jakarta Pusat,<br />
+                  Provinsi DKI Jakarta,<br />
+                  Kode Pos: 10130
                 </p>
               </div>
             </div>

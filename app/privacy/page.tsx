@@ -23,7 +23,7 @@ export default function PrivacyPage() {
                 1. Information We Collect
               </h2>
               <p className="text-muted-foreground">
-                PT BIG SOLUSI TEKNOLOGI (&quot;valuescities&quot;) collects personal information including but not limited to: name, email address, phone number, shipping address, and payment information when you make a purchase or create an account.
+                PT BIG SOLUSI TEKNOLOGI (&quot;valuescities&quot;) collects personal information when you browse our accessories collection, make a purchase, or create an account. This includes: name, email address, phone number, shipping address, payment information, and shopping preferences.
               </p>
             </div>
 
@@ -35,10 +35,11 @@ export default function PrivacyPage() {
                 We use your information to:
               </p>
               <ul className="list-disc ml-6 mt-2 text-muted-foreground space-y-1">
-                <li>Process your orders and provide customer support</li>
-                <li>Send important updates about your purchases</li>
-                <li>Improve our products and services</li>
-                <li>Send promotional communications (with your consent)</li>
+                <li>Process your orders and provide personalized shopping experiences</li>
+                <li>Send order confirmations and shipping updates</li>
+                <li>Recommend accessories based on your preferences</li>
+                <li>Notify you about new collections and exclusive offers (with your consent)</li>
+                <li>Improve our product selection and customer service</li>
                 <li>Comply with legal obligations</li>
               </ul>
             </div>
@@ -48,7 +49,7 @@ export default function PrivacyPage() {
                 3. Data Security
               </h2>
               <p className="text-muted-foreground">
-                We implement appropriate technical and organizational measures to protect your personal data against unauthorized access, alteration, disclosure, or destruction.
+                We implement industry-standard security measures to protect your personal data, including secure payment processing and encrypted data storage. We regularly update our security protocols to ensure the safety of your information.
               </p>
             </div>
 
@@ -82,7 +83,7 @@ export default function PrivacyPage() {
                 6. Cookies and Tracking
               </h2>
               <p className="text-muted-foreground">
-                We use cookies and similar tracking technologies to improve your browsing experience, analyze site traffic, and understand where our visitors come from.
+                We use cookies and similar technologies to enhance your shopping experience, remember your preferences, analyze site traffic, and personalize product recommendations. You can manage cookie preferences through your browser settings.
               </p>
             </div>
 

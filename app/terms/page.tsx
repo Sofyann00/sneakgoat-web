@@ -23,7 +23,7 @@ export default function TermsPage() {
                 1. Agreement to Terms
               </h2>
               <p className="text-muted-foreground">
-                By accessing and using the services provided by PT BIG SOLUSI TEKNOLOGI (hereinafter referred to as &quot;valuescities&quot;), a premium sneaker reselling platform, you accept and agree to be bound by the terms and provisions of this agreement.
+                By accessing and using the services provided by PT BIG SOLUSI TEKNOLOGI (hereinafter referred to as &quot;valuescities&quot;), a premium fashion accessories retailer, you accept and agree to be bound by the terms and provisions of this agreement.
               </p>
             </div>
 
@@ -32,7 +32,7 @@ export default function TermsPage() {
                 2. Products and Services
               </h2>
               <p className="text-muted-foreground">
-                valuescities provides authentic, premium sneakers and related footwear products. All sneakers are guaranteed authentic, and prices are subject to market conditions and availability. Product availability and prices may change without prior notice.
+                valuescities offers authentic, premium accessories including jewelry, watches, bags, wallets, and other fashion accessories for both men and women. All products are sourced from authorized distributors and genuine brands. Product availability and prices are subject to change without prior notice.
               </p>
             </div>
 
@@ -41,16 +41,16 @@ export default function TermsPage() {
                 3. Warranty and Returns
               </h2>
               <p className="text-muted-foreground">
-                All products are guaranteed authentic and undergo strict quality verification. Customers must inspect products upon delivery and report any defects within 24 hours. Returns are only accepted for authenticity issues or manufacturing defects, and items must be unworn, in original condition with all original packaging and tags intact.
+                All products are guaranteed authentic and undergo strict quality inspection. Customers must inspect products upon delivery and report any defects within 24 hours. Returns are accepted for manufacturing defects, and items must be unused, in original condition with all original packaging, tags, and certificates of authenticity intact.
               </p>
             </div>
 
             <div>
               <h2 className="text-xl font-semibold text-foreground mb-3">
-                4. Privacy and Data Protection
+                4. Product Care and Maintenance
               </h2>
               <p className="text-muted-foreground">
-                We collect and process personal data in accordance with Indonesian data protection laws. This includes shipping information, payment details, and purchase history. For more information, please refer to our Privacy Policy.
+                Each product comes with specific care instructions. Proper maintenance is essential for preserving the quality and appearance of your accessories. valuescities is not responsible for damage resulting from improper use, storage, or maintenance of products.
               </p>
             </div>
 
@@ -59,7 +59,7 @@ export default function TermsPage() {
                 5. Limitation of Liability
               </h2>
               <p className="text-muted-foreground">
-                valuescities shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from market price fluctuations, delayed shipments, or circumstances beyond our reasonable control.
+                valuescities shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from product availability, delayed shipments, or circumstances beyond our reasonable control.
               </p>
             </div>
 

@@ -72,11 +72,11 @@ export default function Home() {
 
         <div className="max-w-4xl mx-auto relative">
           <h1 className="text-5xl font-bold tracking-tight sm:text-7xl animate-in fade-in slide-in-from-bottom-4 duration-1000">
-            Dominate the Court in Style
+            Elevate Your Style with Timeless Accessories
           </h1>
           <p className="mt-8 text-xl leading-8 text-muted-foreground max-w-2xl mx-auto animate-in fade-in slide-in-from-bottom-5 duration-1000 delay-200">
-            Experience legendary basketball footwear engineered for peak performance on the court. 
-            From iconic Air Jordans to elite performance shoes, elevate your game with sneakers that define greatness.
+            Discover our curated collection of premium accessories for men and women. 
+            From elegant watches to luxurious leather goods, find the perfect pieces to complement your personal style.
           </p>
           <div className="mt-12 flex items-center justify-center gap-x-6">
             <Link href="/marketplace">
@@ -99,9 +99,9 @@ export default function Home() {
         
         <div className="relative mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl lg:text-center mb-16">
-            <h2 className="text-base font-semibold leading-7 text-primary">Legendary Collection</h2>
+            <h2 className="text-base font-semibold leading-7 text-primary">Premium Collection</h2>
             <p className="mt-2 text-4xl font-bold tracking-tight sm:text-5xl">
-              Court-Ready Basketball Classics
+              Handcrafted Accessories
             </p>
           </div>
           
@@ -140,9 +140,9 @@ export default function Home() {
         
         <div className="relative mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl lg:text-center">
-            <h2 className="text-base font-semibold leading-7 text-primary">The Basketball Advantage</h2>
+            <h2 className="text-base font-semibold leading-7 text-primary">Why Choose Us</h2>
             <p className="mt-2 text-4xl font-bold tracking-tight sm:text-5xl">
-              Built for the Game
+              Crafted for Excellence
             </p>
           </div>
           <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
@@ -168,18 +168,18 @@ export default function Home() {
 
 const features = [
   {
-    name: 'Court-Tested Materials',
-    description: 'Premium materials and advanced cushioning technology designed specifically for basketball performance and durability.',
+    name: 'Premium Materials',
+    description: 'Carefully selected materials including genuine leather, precious metals, and high-quality fabrics for lasting beauty and durability.',
     icon: <Zap className="h-5 w-5 text-primary" />,
   },
   {
-    name: 'Game-Ready Design',
-    description: 'Engineered with advanced ankle support, traction patterns, and responsive cushioning for elite on-court performance.',
+    name: 'Timeless Design',
+    description: 'Each piece is thoughtfully designed to be both contemporary and enduring, ensuring your accessories remain stylish for years to come.',
     icon: <Server className="h-5 w-5 text-primary" />,
   },
   {
-    name: 'Professional Grade',
-    description: 'Every pair undergoes rigorous testing to meet professional basketball standards and performance requirements.',
+    name: 'Quality Assured',
+    description: 'Every accessory undergoes thorough quality control to ensure exceptional craftsmanship and attention to detail.',
     icon: <Shield className="h-5 w-5 text-primary" />,
   },
 ]
