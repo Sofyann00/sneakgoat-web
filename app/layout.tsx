@@ -12,7 +12,7 @@ import { FilterProvider } from "@/contexts/filter-context";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "hoopkicks - Adidas Shoes Marketplace",
+  title: "valuescities - Adidas Shoes Marketplace",
   description: "Your one-stop shop for high-performance Adidas shoes whole sale",
   icons: {
     icon: "/favicon/favicon.ico",

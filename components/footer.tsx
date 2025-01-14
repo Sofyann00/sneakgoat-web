@@ -11,11 +11,11 @@ export function Footer() {
             <div className="flex items-center gap-x-2">
               <img 
                 src="/app_icon.png" 
-                alt="HoopKicks Logo"
+                alt="valuescities Logo"
                 width={32}
                 height={32}
               />
-              <span className="text-xl font-bold">HoopKicks</span>
+              <span className="text-xl font-bold">valuescities</span>
             </div>
             <p className="mt-4 text-sm text-muted-foreground leading-relaxed">
               Your premier destination for authentic basketball sneakers. From classic Air Jordans 
@@ -94,10 +94,10 @@ export function Footer() {
                 <div className="space-y-2">
                   <p>
                     <a
-                      href="mailto:sales@hoopkicks.com"
+                      href="mailto:sales@valuescities.com"
                       className="hover:text-foreground transition-colors"
                     >
-                      sales@hoopkicks.com
+                      sales@valuescities.com
                     </a>
                   </p>
                   <p>
