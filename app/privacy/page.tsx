@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy - PT Rantai Angka Teknologi',
+  title: 'Privacy Policy - PT BIG SOLUSI TEKNOLOGI',
   description: 'Privacy Policy for hoopkicks services and customer data protection',
 }
 
@@ -93,7 +93,7 @@ export default function PrivacyPage() {
               <div className="text-muted-foreground">
                 <p>For any questions about this Privacy Policy or our data practices, please contact us at:</p>
                 <div className="mt-2">
-                  <p>PT Rantai Angka Teknologi</p>
+                  <p>PT BIG SOLUSI TEKNOLOGI</p>
                   <p>Komplek Perkantoran Duta Merlin Blok F13</p>
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
