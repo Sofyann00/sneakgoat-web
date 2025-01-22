@@ -12,8 +12,8 @@ import { FilterProvider } from "@/contexts/filter-context";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "valuescities - Adidas Shoes Marketplace",
-  description: "Your one-stop shop for high-performance Adidas shoes whole sale",
+  title: "valuescities - Accessories Marketplace",
+  description: "Your one-stop shop for trendy and fashionable accessories",
   icons: {
     icon: "/favicon/favicon.ico",
     shortcut: "/favicon/favicon-16x16.png",
