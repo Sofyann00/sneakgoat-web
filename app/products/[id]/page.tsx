@@ -42,7 +42,12 @@ export default function ProductPage({ params }: { params: { id: string } }) {
         <div className="space-y-6">
           <div>
             <h1 className="text-3xl font-bold">{product.name}</h1>
-            <p className="text-2xl font-bold mt-2">${product.price}</p>
+            <p className="text-2xl font-bold mt-2">
+              {new Intl.NumberFormat('id-ID', {
+                style: 'currency',
+                currency: 'IDR'
+              }).format(product.price)}
+            </p>
           </div>
 
           <div>

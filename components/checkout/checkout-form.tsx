@@ -231,7 +231,6 @@ export function CheckoutForm() {
         <DialogContent>
           <DialogHeader>
             <DialogTitle className="text-xl font-bold mb-4">
-              <div className="text-center mb-2">PT BIG SOLUSI TEKNOLOGI</div>
               Please pay to this account number before:
             </DialogTitle>
           </DialogHeader>
@@ -240,8 +239,9 @@ export function CheckoutForm() {
               {formatTime(timeLeft)}
             </div>
             <div className="text-center space-y-2">
-              <p className="font-semibold">BCA</p>
-              <p className="font-mono text-xl">765488912</p>
+              <p className="font-semibold">BRI</p>
+              <p className="font-mono text-xl">119201000455308</p>
+              <div className="text-center mb-2">PT BIG SOLUSI TEKNOLOGI</div>
             </div>
             <Button 
               onClick={() => {
