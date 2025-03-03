@@ -99,6 +99,22 @@ export const products: Product[] = [
     image: "https://gh.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/99/4856411/1.jpg?5713",
     category: "man",
   },
+  {
+    id: 13,
+    name: "Man Stainless Steel Bracelet",
+    description: "Luxury Silver Watch Band Style Stainless Steel Bracelet for Men, Premium Link Chain Design",
+    price: 2000000,
+    image: "https://s.alicdn.com/@sc04/kf/Ha82c20b6590b44128c8b9ac0eebca8fel.jpg_720x720q50.jpg",
+    category: "man",
+  },
+  {
+    id: 14,
+    name: "Black Macrame Bracelet",
+    description: "Handmade black macrame bracelet with silver ornament and blue beads, adjustable size",
+    price: 50000,
+    image: "https://www.karyakreatifindonesia.co.id/download/cHJvZHVjdDpwcm9kdWN0cy9pbWFnZXMvZ2VsYW5nLTRfMS1kV0dadEZoLTIwMjQwNzEyLmpwZw==",
+    category: "women",
+  },
 ];
 
 // Helper function to format price in IDR
