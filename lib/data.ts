@@ -104,7 +104,7 @@ export const products: Product[] = [
     name: "Man Stainless Steel Bracelet",
     description: "Luxury Silver Watch Band Style Stainless Steel Bracelet for Men, Premium Link Chain Design",
     price: 2000000,
-    image: "https://s.alicdn.com/@sc04/kf/Ha82c20b6590b44128c8b9ac0eebca8fel.jpg_720x720q50.jpg",
+    image: "https://cdn-images.buyma.com/imgdata/item/221209/0089880618/505531237/org.jpg",
     category: "man",
   },
   {
